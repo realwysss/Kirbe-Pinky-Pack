@@ -1,0 +1,10 @@
+{
+  "model": {
+    "base": "minecraft:item/magenta_bed",
+    "model": {
+      "texture": "minecraft:magenta",
+      "type": "minecraft:bed"
+    },
+    "type": "minecraft:special"
+  }
+}

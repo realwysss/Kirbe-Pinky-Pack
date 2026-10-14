@@ -1,0 +1,9 @@
+{
+  "model": {
+    "base": "minecraft:item/decorated_pot",
+    "model": {
+      "type": "minecraft:decorated_pot"
+    },
+    "type": "minecraft:special"
+  }
+}

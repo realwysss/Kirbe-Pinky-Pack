@@ -1,0 +1,32 @@
+{
+  "model": {
+    "cases": [
+      {
+        "model": {
+          "base": "minecraft:item/chest",
+          "model": {
+            "texture": "minecraft:christmas",
+            "type": "minecraft:chest"
+          },
+          "type": "minecraft:special"
+        },
+        "when": [
+          "12-24",
+          "12-25",
+          "12-26"
+        ]
+      }
+    ],
+    "fallback": {
+      "base": "minecraft:item/chest",
+      "model": {
+        "texture": "minecraft:normal",
+        "type": "minecraft:chest"
+      },
+      "type": "minecraft:special"
+    },
+    "pattern": "MM-dd",
+    "property": "minecraft:local_time",
+    "type": "minecraft:select"
+  }
+}

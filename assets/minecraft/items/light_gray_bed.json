@@ -1,0 +1,10 @@
+{
+  "model": {
+    "base": "minecraft:item/light_gray_bed",
+    "model": {
+      "texture": "minecraft:light_gray",
+      "type": "minecraft:bed"
+    },
+    "type": "minecraft:special"
+  }
+}

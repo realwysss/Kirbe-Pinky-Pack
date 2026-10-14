@@ -1,0 +1,10 @@
+{
+  "model": {
+    "base": "minecraft:item/ender_chest",
+    "model": {
+      "texture": "minecraft:ender",
+      "type": "minecraft:chest"
+    },
+    "type": "minecraft:special"
+  }
+}

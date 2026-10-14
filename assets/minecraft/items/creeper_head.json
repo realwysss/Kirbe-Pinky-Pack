@@ -1,0 +1,10 @@
+{
+  "model": {
+    "base": "minecraft:item/template_skull",
+    "model": {
+      "kind": "creeper",
+      "type": "minecraft:head"
+    },
+    "type": "minecraft:special"
+  }
+}

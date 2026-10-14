@@ -1,0 +1,10 @@
+{
+  "model": {
+    "base": "minecraft:item/template_banner",
+    "model": {
+      "color": "cyan",
+      "type": "minecraft:banner"
+    },
+    "type": "minecraft:special"
+  }
+}

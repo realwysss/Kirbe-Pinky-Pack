@@ -1,0 +1,10 @@
+{
+  "model": {
+    "base": "minecraft:item/black_bed",
+    "model": {
+      "texture": "minecraft:black",
+      "type": "minecraft:bed"
+    },
+    "type": "minecraft:special"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "model": {
+    "base": "minecraft:item/dragon_head",
+    "model": {
+      "kind": "dragon",
+      "type": "minecraft:head"
+    },
+    "type": "minecraft:special"
+  }
+}

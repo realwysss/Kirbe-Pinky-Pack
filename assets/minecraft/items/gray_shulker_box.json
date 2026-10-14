@@ -1,0 +1,10 @@
+{
+  "model": {
+    "base": "minecraft:item/gray_shulker_box",
+    "model": {
+      "texture": "minecraft:shulker_gray",
+      "type": "minecraft:shulker_box"
+    },
+    "type": "minecraft:special"
+  }
+}
